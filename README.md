@@ -10,6 +10,14 @@ This application provides a secure, structured platform for students to take exa
 
 ---
 
+## 📸 Application Screenshot
+
+<p align="center">
+  <img src="./QuizeApp/src/icons/imageApp.png" width="600" alt="QuizApp GUI Interface" />
+</p>
+
+---
+
 ## 🔥 Key Technical Features
 
 * **Secure Authentication System:** Student credential verification and session handling for safe exam access.
@@ -30,19 +38,10 @@ This application provides a secure, structured platform for students to take exa
 
 ---
 
-## 📸 Application Screenshot
-
-<p align="center">
-  <img src="./QuizeApp/src/icons/imageApp.png" width="600" alt="QuizApp GUI Interface" />
-</p>
-
----
 
 ## ⚙️ Getting Started & Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/QuizApp_GUI_java.git](https://github.com/YOUR_USERNAME/QuizApp_GUI_java.git)
+ **Clone the repository:.....**
    
 Set up the Database:
 Start XAMPP and run the MySQL service.
